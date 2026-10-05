@@ -1,2 +1,13 @@
-# QA-GitHub-Practice
-Practice repository for learning Git and GitHub
+# QA GitHub Practice
+
+This repository is created to learn Git and GitHub.
+
+## Topics
+
+- Git basics
+- GitHub
+- Branching
+- Commit
+- Push and Pull
+- Pull Request
+- Merge
