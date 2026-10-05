@@ -11,3 +11,7 @@ This repository is created to learn Git and GitHub.
 - Push and Pull
 - Pull Request
 - Merge
+
+## My Goal
+
+I am learning Git and GitHub for QA Automation.
